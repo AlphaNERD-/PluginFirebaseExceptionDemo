@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="internalOnly" package="com.testproject.pluginfirebasetest" android:versionName="1.0.0.0" android:versionCode="1">
+	<application android:label="Plugin.Firebase Test" android:icon="@mipmap/ic_launcher"/>
+</manifest>

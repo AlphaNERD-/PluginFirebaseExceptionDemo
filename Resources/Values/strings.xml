@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">none</string>
+
+    <!-- The following lines were added after unsuccessfully following the tutorial -->
+    <string name="google_app_id"><!-- Insert App-ID here --></string>
+    <string name="project_id"><!-- Insert Project-ID here --></string>
+    <string name="current_key"><!-- Insert Web API Key here --></string>
+</resources>
